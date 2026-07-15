@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "title": "Understanding Blood Sugar Levels",
+    "category": "Diabetes Basics",
+    "preview": "Learn what blood glucose numbers mean and why monitoring matters.",
+    "content": "Blood sugar (glucose) is the main source of energy for your body. For most people, fasting blood sugar between 70-99 mg/dL is considered normal. After meals, levels typically rise but should generally stay below 140 mg/dL. Regular monitoring helps you understand how food, activity, stress, and medication affect your body.\n\nIf you have diabetes, your target range may differ. Work with your healthcare provider to set personalized goals and review trends over time rather than focusing on a single reading."
+  },
+  {
+    "id": "2",
+    "title": "Type 1 vs Type 2 Diabetes",
+    "category": "Diabetes Basics",
+    "preview": "A simple overview of the two most common types of diabetes.",
+    "content": "Type 1 diabetes occurs when the body produces little or no insulin. It often develops early in life and requires insulin therapy.\n\nType 2 diabetes occurs when the body becomes resistant to insulin or does not produce enough. It is often linked to lifestyle factors and may be managed with diet, exercise, oral medication, or insulin.\n\nBoth types benefit from regular glucose monitoring, balanced meals, physical activity, and medical follow-up."
+  },
+  {
+    "id": "3",
+    "title": "How Food Affects Glucose",
+    "category": "Diet",
+    "preview": "Carbohydrates, portion size, and meal timing all influence readings.",
+    "content": "Carbohydrates have the strongest impact on blood sugar. Foods like bread, rice, fruit, and sweets can raise glucose faster than proteins or fats.\n\nTips for steadier readings:\n- Choose whole grains and high-fiber foods\n- Pair carbs with protein or healthy fats\n- Watch portion sizes\n- Log readings before and after meals to learn your patterns\n\nKeeping a food and glucose log helps you and your doctor adjust your plan."
+  },
+  {
+    "id": "4",
+    "title": "Best Times to Check Blood Sugar",
+    "category": "Monitoring Tips",
+    "preview": "Fasting, before meals, and after meals each tell a different story.",
+    "content": "Common testing times include:\n- Fasting: before breakfast\n- Before meals: to guide food and medication decisions\n- 1-2 hours after meals: to see post-meal response\n- Before bed: to reduce overnight low or high risk\n\nUse tags in your log to mark each reading's context. Over time, patterns become easier to spot and manage."
+  },
+  {
+    "id": "5",
+    "title": "Exercise and Blood Sugar",
+    "category": "Exercise",
+    "preview": "Physical activity can lower glucose, but timing matters.",
+    "content": "Exercise usually lowers blood sugar by helping muscles use glucose. However, intense activity can sometimes raise levels temporarily.\n\nGuidelines:\n- Check glucose before and after workouts\n- Keep a fast-acting carb nearby if you use insulin or sulfonylureas\n- Stay hydrated\n- Log exercise as a note with your reading\n\nRegular moderate activity improves insulin sensitivity and overall health."
+  },
+  {
+    "id": "6",
+    "title": "Recognizing Highs and Lows",
+    "category": "Monitoring Tips",
+    "preview": "Know the signs of hyperglycemia and hypoglycemia.",
+    "content": "Low blood sugar (hypoglycemia) may cause shakiness, sweating, confusion, or hunger. Treat promptly with fast-acting carbs and recheck in 15 minutes.\n\nHigh blood sugar (hyperglycemia) may cause thirst, frequent urination, fatigue, or blurred vision. Follow your care plan and contact your provider if highs persist.\n\nTracking readings with condition tags helps identify triggers and prevent repeated episodes."
+  },
+  {
+    "id": "7",
+    "title": "Working With Your Doctor",
+    "category": "Monitoring Tips",
+    "preview": "Exported reports and trends make medical visits more productive.",
+    "content": "Bring your glucose history to appointments. Trends over weeks are often more useful than isolated numbers.\n\nShare:\n- Average readings\n- Highest and lowest values\n- Times of day with frequent highs or lows\n- Notes about meals, medication, and activity\n\nUse the export feature to create a PDF or CSV report your doctor can review quickly."
+  },
+  {
+    "id": "8",
+    "title": "Building Healthy Habits",
+    "category": "Diet",
+    "preview": "Small daily choices add up to better long-term control.",
+    "content": "Consistency matters more than perfection. Focus on sustainable habits:\n- Eat regular meals\n- Prioritize vegetables and lean protein\n- Limit sugary drinks\n- Sleep well and manage stress\n- Walk after meals when possible\n\nUse this app daily to build awareness. Even simple logs can reveal what helps you stay in range."
+  }
+]
