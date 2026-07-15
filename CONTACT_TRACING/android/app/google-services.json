@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054222337580",
+    "project_id": "covid-control-tracer",
+    "storage_bucket": "covid-control-tracer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054222337580:android:c3a18f9ce164af9e857389",
+        "android_client_info": {
+          "package_name": "com.example.contact_tracing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC31B1p8nnTw8-7i5KmkVK0TLTvbVC_83Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
